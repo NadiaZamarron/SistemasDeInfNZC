@@ -1,0 +1,15 @@
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\obj\Debug\net7.0\primerexamen.csproj.AssemblyReference.cache
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\obj\Debug\net7.0\primerexamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\obj\Debug\net7.0\primerexamen.AssemblyInfoInputs.cache
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\obj\Debug\net7.0\primerexamen.AssemblyInfo.cs
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\obj\Debug\net7.0\primerexamen.csproj.CoreCompileInputs.cache
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\bin\Debug\net7.0\primerexamen.exe
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\bin\Debug\net7.0\primerexamen.deps.json
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\bin\Debug\net7.0\primerexamen.runtimeconfig.json
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\bin\Debug\net7.0\primerexamen.dll
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\bin\Debug\net7.0\primerexamen.pdb
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\obj\Debug\net7.0\primerexamen.dll
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\obj\Debug\net7.0\refint\primerexamen.dll
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\obj\Debug\net7.0\primerexamen.pdb
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\obj\Debug\net7.0\primerexamen.genruntimeconfig.cache
+C:\Users\nadiazamarrón\OneDrive\Documentos\SistemasDeInfNZ\primerexamen\obj\Debug\net7.0\ref\primerexamen.dll
